@@ -1,9 +1,9 @@
 # Sudoku_Game_GUI
 
-***
+###
 PLAY THE GAME HERE:
 https://repl.it/@jamynair/SudokuGameGUI-1#README
-***
+###
 
 
 All you need to run this is is pygame and python3
