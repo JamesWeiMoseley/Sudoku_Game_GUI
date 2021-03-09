@@ -1,5 +1,11 @@
 # Sudoku_Game_GUI
 
+***
+PLAY THE GAME HERE:
+https://repl.it/@jamynair/SudokuGameGUI-1#README
+***
+
+
 All you need to run this is is pygame and python3
 
 There are different ways of installing pygame depending on versions and your computer. 
@@ -39,10 +45,6 @@ Pygame version 2.0.1 was used for the GUI: https://www.pygame.org/docs/
 All code was writting in Python3 version 3.8.5 
 *---------------------------------------------------------------------*
 
-
-
-PLAY THE GAME HERE:
-https://repl.it/@jamynair/SudokuGameGUI-1#README
 
 
 
