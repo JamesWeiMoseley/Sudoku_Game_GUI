@@ -20,7 +20,9 @@ python3 -m pygame.examples.aliens
 If all else fails see the pygame page:
 https://www.pygame.org/wiki/GettingStarted
 
+
 +-------------------------------------------------------------------+
+
 Instructions for Sudoku Game:
 to run program just type in the terminal:
 python3 GUI.py
@@ -39,11 +41,14 @@ Press the number 0 if you want to delete any numbers.
 
 
 *--------------------------------------------------------------------*
+
 Pygames is a set of Python modules designed for writing video games built on the SDL libraray.
 Pygame version 2.0.1 was used for the GUI: https://www.pygame.org/docs/
 
 All code was writting in Python3 version 3.8.5 
+
 *---------------------------------------------------------------------*
+
 
 
 
