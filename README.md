@@ -48,7 +48,6 @@ All code was writting in Python3 version 3.8.5
 
 
 
-
 ![image](https://user-images.githubusercontent.com/61338213/110221806-16025800-7e83-11eb-83ad-9ca50fc88a16.png)
 
 ![image](https://user-images.githubusercontent.com/61338213/110221858-61b50180-7e83-11eb-89ee-79a4f994322f.png)
