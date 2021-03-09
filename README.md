@@ -39,8 +39,12 @@ Pygame version 2.0.1 was used for the GUI: https://www.pygame.org/docs/
 All code was writting in Python3 version 3.8.5 
 *---------------------------------------------------------------------*
 
-Play the Game Here:
+
+
+PLAY THE GAME HERE:
 https://repl.it/@jamynair/SudokuGameGUI-1#README
+
+
 
 
 ![image](https://user-images.githubusercontent.com/61338213/110221806-16025800-7e83-11eb-83ad-9ca50fc88a16.png)
