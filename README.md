@@ -11,7 +11,9 @@ All you need to run this is is pygame and python3
 There are different ways of installing pygame depending on versions and your computer. 
 Common ways of install(One of these should work):
 python3 -m pip install -U pygame --user
+
 pip3 install pygame
+
 pip install pygame
 
 To make sure pygames works:
@@ -30,6 +32,7 @@ python3 GUI.py
 and thats it! Python will open a window with the running Sudoku game
 
 HOW TO PLAY:
+
 SOLVE: simply click "solve" to solve the puzzle (Note it will not solve if the puzzle is wrong)
 RESTART: it will start a new sudoku game based on 6 random games in grids.py
 QUIT: exits the program
