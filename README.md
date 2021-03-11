@@ -26,6 +26,7 @@ https://www.pygame.org/wiki/GettingStarted
 +-------------------------------------------------------------------+
 
 Instructions for Sudoku Game:
+
 to run program just type in the terminal:
 python3 GUI.py
 
@@ -34,7 +35,9 @@ and thats it! Python will open a window with the running Sudoku game
 HOW TO PLAY:
 
 SOLVE: simply click "solve" to solve the puzzle (Note it will not solve if the puzzle is wrong)
+
 RESTART: it will start a new sudoku game based on 6 random games in grids.py
+
 QUIT: exits the program
 
 You can click on any button and try for yourself to solve the Sudoku Game.
