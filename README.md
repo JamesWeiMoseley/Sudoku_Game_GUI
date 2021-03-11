@@ -10,6 +10,7 @@ All you need to run this is is pygame and python3
 
 There are different ways of installing pygame depending on versions and your computer. 
 Common ways of install(One of these should work):
+
 python3 -m pip install -U pygame --user
 
 pip3 install pygame
@@ -42,6 +43,7 @@ QUIT: exits the program
 
 You can click on any button and try for yourself to solve the Sudoku Game.
 Keep in mind if you input wrong numbers the solver may return a "failed" result
+
 Press the number 0 if you want to delete any numbers. 
 
 
