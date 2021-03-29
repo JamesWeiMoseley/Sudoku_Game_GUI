@@ -49,6 +49,7 @@ Press the number 0 if you want to delete any numbers.
 
 
 *--------------------------------------------------------------------*
+#Version
 
 Pygames is a set of Python modules designed for writing video games built on the SDL libraray.
 Pygame version 2.0.1 was used for the GUI: https://www.pygame.org/docs/
