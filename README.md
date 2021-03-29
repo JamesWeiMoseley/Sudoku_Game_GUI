@@ -26,7 +26,7 @@ https://www.pygame.org/wiki/GettingStarted
 
 +-------------------------------------------------------------------+
 
-Instructions for Sudoku Game:
+# Instructions for Sudoku Game:
 
 to run program just type in the terminal:
 python3 GUI.py
